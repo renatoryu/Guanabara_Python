@@ -1,0 +1,4 @@
+isnumeric()
+isalpha()
+isupper()
+islower()
